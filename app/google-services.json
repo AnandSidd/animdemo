@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "941409761106",
+    "firebase_url": "https://travel-6de43.firebaseio.com",
+    "project_id": "travel-6de43",
+    "storage_bucket": "travel-6de43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941409761106:android:48817e072edba6ee17ec8b",
+        "android_client_info": {
+          "package_name": "com.example.animdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941409761106-luhvsfd0lt63tdvk3qsn44k2mt3oqq1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgRJKV3QJkFM_Q_8_aMZtiOkJ4IkpQSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941409761106-luhvsfd0lt63tdvk3qsn44k2mt3oqq1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
